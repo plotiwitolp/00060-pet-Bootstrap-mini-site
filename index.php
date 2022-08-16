@@ -49,22 +49,29 @@
     </div>
     <div class="container mt-3">
         <div class="row">
-            <div class="col-md-4">
+            <div class="col-md-3">
                 <h2>Second title 1</h2>
                 <p>
                     Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellendus reiciendis perferendis sint similique id? Numquam, aut amet hic voluptas tempora vero animi ipsam maiores expedita nemo magnam, aspernatur harum impedit!
                 </p>
                 <a href="#" class="btn btn-info mt-3">Another simple link &raquo;</a>
             </div>
-            <div class="col-md-4">
+            <div class="col-md-3">
                 <h2>Second title 2</h2>
                 <p>
                     Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellendus reiciendis perferendis sint similique id? Numquam, aut amet hic voluptas tempora vero animi ipsam maiores expedita nemo magnam, aspernatur harum impedit!
                 </p>
                 <a href="#" class="btn btn-info mt-3">Another simple link &raquo;</a>
             </div>
-            <div class="col-md-4">
+            <div class="col-md-3">
                 <h2>Second title 3</h2>
+                <p>
+                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellendus reiciendis perferendis sint similique id? Numquam, aut amet hic voluptas tempora vero animi ipsam maiores expedita nemo magnam, aspernatur harum impedit!
+                </p>
+                <a href="#" class="btn btn-info mt-3">Another simple link &raquo;</a>
+            </div>
+            <div class="col-md-3">
+                <h2>Second title 4</h2>
                 <p>
                     Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellendus reiciendis perferendis sint similique id? Numquam, aut amet hic voluptas tempora vero animi ipsam maiores expedita nemo magnam, aspernatur harum impedit!
                 </p>
